@@ -1,6 +1,5 @@
-# Snake
-# Tutorial
-Snake Game using JavaFx.
+# Snake_Game
+## nake Game using JavaFx.
 IDE: Intellij IDEA
 
 # Screenshot
