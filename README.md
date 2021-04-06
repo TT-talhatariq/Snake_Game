@@ -1,7 +1,7 @@
 # Snake
 # Tutorial
-Watch Snake Tutorial step by step on youtube:
-https://youtu.be/H9WjCyPFOug
+Snake Game using JavaFx.
+IDE: Intellij IDEA
 
 # Screenshot
 ![alt text](https://raw.githubusercontent.com/mahmoudhamwi/Snake/main/Snake/src/img/snake_thumb.png)
